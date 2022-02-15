@@ -5,7 +5,7 @@
 - 👯 Contact me via email: 
 - 🤔 Pronouns: He/Him
 
-### Olá! Eu sou a Marcelle Dantas 👋
+### Olá! Eu sou o Jaime Barbosa👋
 - 🔭 Atualmente trabalho com back-end e front-end
 - 🌱 Estudando Flutter
 - 👯 Contate-me por e-mail: 
