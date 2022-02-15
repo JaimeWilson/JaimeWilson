@@ -2,14 +2,20 @@
 
 - 🔭 I’m currently working on back-end and front-end
 - 🌱 I’m currently learning Flutter
-- 👯 Contact me via email: 
+- 👯 Contact me via email: jaimeandres1791@gmail.com
 - 🤔 Pronouns: He/Him
 
 ### Olá! Eu sou o Jaime Barbosa👋
 - 🔭 Atualmente trabalho com back-end e front-end
 - 🌱 Estudando Flutter
-- 👯 Contate-me por e-mail: 
+- 👯 Contate-me por e-mail: jaimeandres1791@gmail.com
 - 🤔 Pronomes: Ele/Dele
+
+### Hola! Mi nombre es Jaime Barbosa👋
+- 🔭 Actualmente trabajo con back-end e front-end
+- 🌱 Estoy estudiando Flutter
+- 👯 Me email de contracto es: jaimeandres1791@gmail.com
+- 🤔 Pronombres: el/ del
 
 
 <div>
