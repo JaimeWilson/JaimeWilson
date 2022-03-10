@@ -42,6 +42,5 @@
 ##
 
 <br>
-
-<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0"
+<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
 
