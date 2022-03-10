@@ -17,6 +17,10 @@
 - 👯 Me email de contracto es: jaimebarbosa1791@gmail.com
 - 🤔 Pronombres: el/ del
 
+#
+# My Skill Set <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<table><tr><td valign="top" width="33%">
+
 
 <div>
   <a href="https://github.com/JaimeWilson">
@@ -32,3 +36,18 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
+  
+## Github Stats
+<br>
+ <div>
+  <a href="https://github.com/marcelledantas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelledantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+</div>
+
+<br>
+
+##
+
+<br>
+
+<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
