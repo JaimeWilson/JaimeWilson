@@ -1,18 +1,18 @@
 ### Hi there! I'm Jaime Barbosa 👋
 
-- 🔭 I’m currently working on back-end and front-end
+- 🔭 I’m currently working on tailing dam
 - 🌱 I’m currently learning Flutter
 - 👯 Contact me via email: jaimeandres1791@gmail.com
 - 🤔 Pronouns: He/Him
 
 ### Olá! Eu sou o Jaime Barbosa👋
-- 🔭 Atualmente trabalho com back-end e front-end
+- 🔭 Atualmente trabalho com barragem de rejeito
 - 🌱 Estudando Flutter
 - 👯 Contate-me por e-mail: jaimeandres1791@gmail.com
 - 🤔 Pronomes: Ele/Dele
 
 ### Hola! Mi nombre es Jaime Barbosa👋
-- 🔭 Actualmente trabajo con back-end e front-end
+- 🔭 Actualmente trabajo con presas de relaves
 - 🌱 Estoy estudiando Flutter
 - 👯 Me email de contracto es: jaimeandres1791@gmail.com
 - 🤔 Pronombres: el/ del
