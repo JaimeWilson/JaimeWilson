@@ -1,19 +1,19 @@
 ### Hi there! I'm Jaime Barbosa 👋
 
 - 🔭 I’m currently working on tailing dam
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning constitutive models
 - 👯 Contact me via email: jaimeandres1791@gmail.com
 - 🤔 Pronouns: He/Him
 
 ### Olá! Eu sou o Jaime Barbosa👋
 - 🔭 Atualmente trabalho com barragem de rejeito
-- 🌱 Estudando Flutter
+- 🌱 Estudando modelos constitutivos
 - 👯 Contate-me por e-mail: jaimeandres1791@gmail.com
 - 🤔 Pronomes: Ele/Dele
 
 ### Hola! Mi nombre es Jaime Barbosa👋
 - 🔭 Actualmente trabajo con presas de relaves
-- 🌱 Estoy estudiando Flutter
+- 🌱 Estoy estudiando modelos constitutivos
 - 👯 Me email de contracto es: jaimeandres1791@gmail.com
 - 🤔 Pronombres: el/ del
 
