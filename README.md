@@ -43,5 +43,4 @@
 
 <br>
 
-<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
-<img src="https://www.google.com/search?q=gracias+por+leer+mi+perfil&rlz=1C1GCEU_pt-PTBR982BR983&sxsrf=APq-WBstYL3R2AceuKjuwTquWYhPqddCQA:1646923152944&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiioYPs4rv2AhWBpZUCHWBcBXsQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=Xmu7-W4NTbfHKM" border="0">
+<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">border="0">
