@@ -11,12 +11,6 @@
 - 👯 Contate-me por e-mail: jaimebarbosa1791@gmail.com
 - 🤔 Pronomes: Ele/Dele
 
-### Hola! Mi nombre es Jaime Barbosa👋
-- 🔭 Actualmente trabajo con presas de relaves
-- 🌱 Estoy estudiando modelos constitutivos
-- 👯 Me email de contracto es: jaimebarbosa1791@gmail.com
-- 🤔 Pronombres: el/ del
-
 #
 # My Skill Set <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <table><tr><td valign="top" width="33%">
