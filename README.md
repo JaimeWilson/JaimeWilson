@@ -1,6 +1,6 @@
 ### Hi there! I'm Jaime Barbosa 👋
 
-- 🔭 I’m currently working on tailing dam
+- 🔭 I’m currently working on tailings dam
 - 🌱 I’m currently learning constitutive models
 - 👯 Contact me via email: jaimebarbosa1791@gmail.com
 - 🤔 Pronouns: He/Him
